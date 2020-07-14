@@ -1,0 +1,14 @@
+Log file created: 29.05.2020 04:16:21
+---------------------------------------
+Ticks = 9172      <4940> <AMEApp> <0> Dolby codec permission check failed
+Ticks = 19750      <4940> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel.
+Ticks = 19813      <4940> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel.
+Ticks = 19813      <4940> <IR.InitIpp> <5> ippInit warning: ippStsNonIntelCpu: The target CPU is not Genuine Intel.
+Ticks = 79078      <4940> <AMEApp> <0> Time taken to load MediaCore plugins: 29221.7 milliseconds.
+Ticks = 127766      <4940> <AMEApp> <1> Entering RunEventLoop
+Ticks = 413125      <2964> <EncoderStateH264> <1> No H/W Codec found for H.264
+Ticks = 438703      <2964> <ExporterHost::BeginThreadExport> <5> Exporter finished in : 25.5479 seconds. Result code: 0 Destination:C:\Users\e\Desktop\Intro_Motion Graphic.mp4
+Ticks = 457828      <4940> <AMEApp> <1> Exited RunEventLoop
+----------------------------------------
+Log file closed: 29.05.2020 04:23:57
+
